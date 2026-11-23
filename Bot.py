@@ -13,7 +13,3 @@ def echo(message):
  bot.reply_to(message, "وصلاتني")
 
 bot.infinity_polling()
-
-3. هبط لتحت كاع وورك على *Commit changes*
-
-ملي تسالي، قولي ليا `صايبت bot.py` باش نزيدو الملف الثاني `requirements.txt`.
